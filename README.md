@@ -1,8 +1,8 @@
 # Data Analyst
 
-##Education
+## Education
 
-##Projects
+## Projects
 1. insurance
 2. loan
 
